@@ -16,14 +16,14 @@ numbers.remove(40)
 print("After remove:", numbers)
 
 # pop()
-numbers.pop(3)
+numbers.pop(2)
 print("After pop:", numbers)
 
 # count()
 print("Count of 20:", numbers.count(20))
 
 # index()
-print("Index of 30:", numbers.index(50))
+print("Index of 30:", numbers.index(30))
 
 # extend()
 numbers.extend([70, 80])
